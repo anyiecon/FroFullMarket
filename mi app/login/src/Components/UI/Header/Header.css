@@ -1,0 +1,33 @@
+.head{
+    display: flex;
+ 
+    justify-content: space-evenly;
+}
+.seco{
+    display: flex;
+    justify-content: space-evenly;
+    width: 400px;
+    color: white;
+    margin-top: 70px;
+}
+
+.lo{
+    height: 180px;
+}
+.buth{
+    background-color: #45b3f3;
+    height: 30px;
+    width: 120px;
+    border-radius: 2em;
+    text-align: center;
+}
+.buth:hover{
+    cursor: pointer;
+}
+.head{
+    background-color: black;
+}
+.campo{
+    background-color:blueviolet ;
+    height: 10px;
+}
